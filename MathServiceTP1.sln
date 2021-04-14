@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathServiceTP1", "MathServiceTP1.csproj", "{84E56C47-29E4-48B5-9A57-7C186F92A91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E56C47-29E4-48B5-9A57-7C186F92A91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E56C47-29E4-48B5-9A57-7C186F92A91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E56C47-29E4-48B5-9A57-7C186F92A91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E56C47-29E4-48B5-9A57-7C186F92A91D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05AE4B3D-8792-4343-8F93-3E9E68C12423}
+	EndGlobalSection
+EndGlobal
